@@ -1,2 +1,4 @@
 # hello-world
-Started githun
+Started github
+
+It looks great to start with
